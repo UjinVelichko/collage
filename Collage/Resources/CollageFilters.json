@@ -1,0 +1,40 @@
+
+
+{ "filters": [
+              {
+                "name": "None",
+                "ciFilter": "None"
+              },
+              {
+                "name": "Chrome",
+                "ciFilter": "CIPhotoEffectChrome"
+              },
+              {
+                "name": "Fade",
+                "ciFilter": "CIPhotoEffectFade"
+              },
+              {
+                "name": "Instant",
+                "ciFilter": "CIPhotoEffectInstant"
+              },
+              {
+                "name": "Noir",
+                "ciFilter": "CIPhotoEffectNoir"
+              },
+              {
+                "name": "Process",
+                "ciFilter": "CIPhotoEffectProcess"
+              },
+              {
+                "name": "Tonal",
+                "ciFilter": "CIPhotoEffectTonal"
+              },
+              {
+                "name": "Transfer",
+                "ciFilter": "CIPhotoEffectTransfer"
+              },
+              {
+                "name": "Sepia",
+                "ciFilter": "CISepiaTone"
+              }
+            ]}
